@@ -1,0 +1,19 @@
+#nuevo{
+	border: 1px solid gray;
+	border-radius: 3px;
+	width: 100px;
+	height: 20px;
+	font-size: 15px;
+	text-align: center;
+	background-color: #CCC;
+}
+#nuevo:hover{
+	background-color: #999;
+	cursor: pointer;
+}
+#reloj{
+	width: 100px;
+	height: 50px;
+	font-size: 12px;
+	text-align: center;
+}
